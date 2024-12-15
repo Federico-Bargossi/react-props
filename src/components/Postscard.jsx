@@ -1,9 +1,9 @@
 import style from "./Postscard.module.css"
 
 
-function Postscard({ title, description }) {
+function Postscard({ title, description , id}) {
     return (
-        <div>
+        <div> 
             <div className="imgcont">
                 <img src="/425865.jpg" alt="" />
             </div>
