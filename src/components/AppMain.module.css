@@ -1,0 +1,43 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+
+}
+
+.main{
+    background-color: whitesmoke;
+}
+
+.radius{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.radius2{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.p{
+    text-align: justify;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    border: 1px solid orange;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+
+.padding{
+    padding: 15px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

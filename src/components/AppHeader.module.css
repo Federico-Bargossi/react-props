@@ -1,0 +1,12 @@
+.header{
+    height: 80px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+}
